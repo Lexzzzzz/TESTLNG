@@ -34,7 +34,7 @@ li a {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: url(PRODUCT%20BG.png);
+    background-image: (PRODUCT%20BG.png);
     background-color: rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7);
     background-repeat: no-repeat;
     background-size: cover;
